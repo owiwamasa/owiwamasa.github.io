@@ -5,7 +5,7 @@
 Name: Owen Iwamasa
 Hometown: San Francisco, CA
 Nationality: Japanese American
-Colleges Attended: NYU and CCNY
+Colleges Attended: NYU and CCNY (Major: Economics)
 
 Hobbies: Basketball 🏀, Music 🎹, and Traveling 🚀
 
