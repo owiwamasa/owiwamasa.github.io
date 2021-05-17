@@ -1,4 +1,6 @@
-# About Me
+# Hey 👋🏼
+
+## About Me
 
 Name: Owen Iwamasa 
 Hometown: San Francisco, CA 
