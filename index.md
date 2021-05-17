@@ -11,7 +11,6 @@ Hobbies: Basketball 🏀, Music 🎹, and Traveling 🚀
 
 ##Skills
 -JavaScript
--Git
 -HTML
 -CSS
 -Carpentry 🛠
