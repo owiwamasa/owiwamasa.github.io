@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am passionate about building dynamic web applications with Javascript, Python, React, Redux, and HTML/CSS. I love the process of developing a project from an idea and into a full fledged application. It's amazing what you can do with a computer and some creativity. I also have experience working as a carpenter/ set builder and enjoy having many outlets to express my creativity and utilize my problem-solving skills. For fun, my hobbies are playing musical instruments, sports, and drawing.
+<p>I am passionate about building dynamic web applications with Javascript, Python, React, Redux, and HTML/CSS. I love the process of developing a project from an idea and into a full fledged application. It's amazing what you can do with a computer and some creativity. I also have experience working as a carpenter/ set builder and enjoy having many outlets to express my creativity and utilize my problem-solving skills. For fun, my hobbies are playing musical instruments, sports, and drawing.</p>
 -------------------------------------------------------------------------
 - **Colleges Attended**:    NYU and CCNY (Major: Economics)
 
