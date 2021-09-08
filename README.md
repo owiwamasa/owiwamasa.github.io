@@ -17,7 +17,8 @@
 
 ## Projects
 
-<a align='left' href='https://canvas-proj.herokuapp.com/'><p align='left'>
+<a align='left' href='https://canvas-proj.herokuapp.com/'>Canvas:
+  <p align='left'>
   <img src='https://i.imgur.com/0Szj0Wh.png' width='200px' >
 </p></a>
 
