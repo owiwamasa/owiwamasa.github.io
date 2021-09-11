@@ -34,7 +34,7 @@ Colleges Attended:    NYU and CCNY (Major: Economics)
 
 <a align='left' href='https://hullabaloo-podcasts.herokuapp.com/'>Hullabaloo: 
 <p align='left'>
-  <img src='https://hullabaloo-mp3s.s3.us-east-2.amazonaws.com/Untitled_Artwork+37.png' width='200px' >
+  <img src='https://i.imgur.com/N8RoYl1.png' width='200px' >
 </p>
 </a>
 
