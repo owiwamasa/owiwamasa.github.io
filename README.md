@@ -3,9 +3,9 @@
 ## About Me
 
 <p>I love the process of developing a project from an idea and into a full fledged application. I also have experience working as a carpenter/ set builder and enjoy having many outlets to express my creativity and utilize my problem-solving skills. For fun, my hobbies are playing musical instruments, sports, and drawing.</p>
-Hometown:    San Francisco, CA
-Colleges Attended:    NYU and CCNY (Major: Economics)
-<a href="http://www.oweniwamasa.com/">Portfolio Site</a>
+<p>Hometown:    San Francisco, CA</p>
+<p>Colleges Attended:    NYU and CCNY (Major: Economics)</p>
+<p><a href="http://www.oweniwamasa.com/">Portfolio Site</a></p>
 
 ## Skills
 
